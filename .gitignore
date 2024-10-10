@@ -1,0 +1,14 @@
+# Binaries
+/bin/
+/pkg/
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs
+*.log
+
+# Environment Variables
+.env
